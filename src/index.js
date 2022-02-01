@@ -1,4 +1,6 @@
 import Carousel from './Carousel';
+
+// importing the required libraries for index.js
 import Slide from './Slide';
 import addonMixin from './addons/Mixin';
 import Icon from './addons/Icon';
